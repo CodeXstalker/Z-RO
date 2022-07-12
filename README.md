@@ -1,4 +1,4 @@
--> This repo is not for usual project, which we always look for.
+-> This repo is not as usual project, which we always look for.
 
 -> From today(12-07-2022), here onwards project of 
 
